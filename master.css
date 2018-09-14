@@ -1,0 +1,32 @@
+.profBox{
+    width:400px;
+    height: 600;
+    background: rgba(0,0,0,.4);
+    padding: 40px;
+    color: white;
+    margin: 0 auto;
+    margin-top: 140px;
+    text-align: center;
+}
+
+.profBox{
+    width:400px;
+    height: 600;
+    background: rgba(0,0,0,.4);
+    padding: 40px;
+    color: white;
+    margin: 0 auto;
+    margin-top: 140px;
+    text-align: center;
+}
+.lineBreak{
+    width: 300px;
+    border-top: 1px solid white;
+    margin: 0 auto;
+
+
+button {
+  color: white;
+  background: rgb(231, 18, 18);
+
+}
